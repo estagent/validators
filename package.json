@@ -1,0 +1,18 @@
+{
+  "name": "@revgaming/validators",
+  "version": "0.0.1",
+  "author": "estagent <estagent@gmail.com>",
+  "description": "regex library for @revgaming/global",
+  "keywords": [
+    "javascript",
+    "revgaming",
+    "global",
+    "validators",
+    "regex"
+  ],
+  "homepage": "https://github.com/estagent/validators",
+  "main": "validators.js",
+  "dependencies": {
+  },
+  "devDependencies": {}
+}
